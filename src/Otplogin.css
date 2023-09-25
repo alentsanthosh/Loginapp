@@ -1,0 +1,56 @@
+.First{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.new{
+    height: 300px;
+    width: 375px;
+    border-radius: 8px;
+}
+.top{
+    position: relative;
+    bottom: 15px;
+    color: #1e88e5;
+}
+.buttonn{
+    position: relative;
+    top: 20px;
+}
+.topp{
+    color: #1e88e5;
+}
+.icon8{
+    position: relative;
+    top: 20px;
+    color: #1e88e5;
+    left: 0px;
+}
+.Firstt{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.formm{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+    height: 300px;
+    width: 500;
+    position: relative;
+}
+.formm h2{
+    color: #1e88e5;
+}
+.formm h5{
+    position: relative;
+    bottom: 15px;
+    color: #1e88e5;
+}
+.buttonnn{
+    position: relative;
+    top: 
+    28px;
+}
